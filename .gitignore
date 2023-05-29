@@ -1,3 +1,7 @@
-/ansible/hosts
-/ansible/proxy.pac
+# sparkle
+.github/notes
+
+# sensitive data
+ansible/hosts
+ansible/proxy.pac
 .env
